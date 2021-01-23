@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "title":"Frontend Development",
+        "desp":"",
+        "sellerName":"Amazon",
+        "location":"Hyderabad,Telangana"
+    },
+    {
+        "id":2,
+        "title":"Backend Development",
+        "desp":"",
+        "sellerName":"Google",
+        "location":"Delhi"
+    },
+    {
+        "id":3,
+        "title":"Full Stack development",
+        "desp":"",
+        "sellerName":"Facebook",
+        "location":"Banglore,Karnataka"
+    },
+    {
+        "id":4,
+        "title":"Mobile Development",
+        "desp":"",
+        "sellerName":"Netflix",
+        "location":"Vijayawada,Andhra Pradesh"
+    }
+]

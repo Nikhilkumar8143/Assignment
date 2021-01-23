@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "title":"Harry Potter Game",
+        "desp":"",
+        "sellerName":"Cloudtail Technologies",
+        "location":"Hyderabad,Telangana"
+    },
+    {
+        "id":2,
+        "title":"Yonex ascraber",
+        "desp":"",
+        "sellerName":"Yonex",
+        "location":"Delhi"
+    },
+    {
+        "id":3,
+        "title":"Avengers Dvd",
+        "desp":"",
+        "sellerName":"Zora Technologies",
+        "location":"Banglore,Karnataka"
+    },
+    {
+        "id":4,
+        "title":"Nintendo",
+        "desp":"",
+        "sellerName":"Avalot Technologies",
+        "location":"Vijayawada,Andhra Pradesh"
+    }
+]

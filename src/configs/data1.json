@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "title":"Tv Repair",
+        "desp":"",
+        "sellerName":"Sri Balaji Repair",
+        "location":"Hyderabad,Telangana"
+    },
+    {
+        "id":2,
+        "title":"Yonex Gutting",
+        "desp":"",
+        "sellerName":"Yonex",
+        "location":"Delhi"
+    },
+    {
+        "id":3,
+        "title":"Electronics",
+        "desp":"",
+        "sellerName":"Bajaj",
+        "location":"Banglore,Karnataka"
+    },
+    {
+        "id":4,
+        "title":"Carpenter",
+        "desp":"",
+        "sellerName":"Laxmi Woords",
+        "location":"Vijayawada,Andhra Pradesh"
+    }
+]
