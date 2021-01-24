@@ -1,3 +1,5 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
+/* eslint-disable jsx-a11y/alt-text */
 import React from 'react';
 import downloadappstore from '../assets/img/downloadappstore.jpg';
 import downloadgoogleplay from '../assets/img/downloadgoogleplay.jpg';

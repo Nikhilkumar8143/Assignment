@@ -115,11 +115,11 @@ img {
 }
 
 .flex-style{
-    display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
-    display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
-    display: -ms-flexbox;      /* TWEENER - IE 10 */
-    display: -webkit-flex;     /* NEW - Chrome */
-    display: flex;             /* NEW, Spec - Opera 12.1, Firefox 20+ */
+    display: -webkit-box;  
+    display: -moz-box;     
+    display: -ms-flexbox;  
+    display: -webkit-flex; 
+    display: flex;  
 }
 
 header{
@@ -129,7 +129,6 @@ header{
     -moz-box-shadow: 0 8px 6px -6px black;
     box-shadow: 0 8px 6px -6px rgba(0, 0, 0, 0.562);
     justify-content: space-between;
-    /* align-items: center; */
     position: fixed;
     top: 0;
     left: 0;
@@ -165,7 +164,6 @@ header{
 }
 
 .search-block{
-    /* text-align: center; */
     height:300px;
     background-image: url(".././img/door-bg.jpg");
     background-attachment: fixed;
@@ -194,8 +192,6 @@ header{
 .global-search-box {
     position: relative;
     margin-bottom: 5px;
-    /* width: 350px; */
-    /* margin: 0 auto; */
 }
 
 .global-search-box img {
@@ -277,7 +273,6 @@ header{
     padding-top: 11px;
 }
 
-
 .arrow {
     border: solid white;
     border-width: 0 2px 2px 0;
@@ -285,24 +280,18 @@ header{
     padding: 6px;
 }
 
-.div-al{
-    position: absolute;
-    top: 50%;
-    left: 50px;
-}
-
-.div-ar{
+.right {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
     position: absolute;
     top: 50%;
     right: 50px;
 }
 
-.right {
-    transform: rotate(-45deg);
-    -webkit-transform: rotate(-45deg);
-}
-
 .left {
+    position: absolute;
+    top: 50%;
+    left: 50px;
     transform: rotate(135deg);
     -webkit-transform: rotate(135deg);
 }
@@ -382,7 +371,7 @@ header{
     font-size: 16px;
     color: white;
     margin-bottom: 10px;
-    height: 35px;
+    height: 38px;
     overflow: hidden;
     text-overflow: ellipsis;
 }
@@ -541,8 +530,8 @@ footer{
     footer{
         padding: 20px;
     }
+
     .footer-blocks{
-        /* flex-direction: column; */
         flex-wrap: wrap;
     }
 
@@ -554,14 +543,10 @@ footer{
         font-size: 11px;
     }
 
-    
-.footer-fb{
-    max-width: 60% !important;
-}
-
-.footer-blocks > div {
-    margin-bottom: 20px;
-}
+    .footer-blocks > div {
+        margin-bottom: 20px;
+        max-width: 60%;
+    }
 }
   
 .discover-button:hover {
