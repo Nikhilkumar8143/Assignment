@@ -24,5 +24,5 @@ $ npm run build
 $ npm start
 
 Built With
-  React
+  React,
   Redux
