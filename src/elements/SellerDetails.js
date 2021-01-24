@@ -8,7 +8,7 @@ const SellerDetails = (props) => {
                 props.listData && props.listData.map((data,i) => {
                     return <li key={i}>
                                 <div className="seller-block">
-                                <img className="shopping-img" src={data.img}/>
+                                <img className="shopping-img" src={data.img} alt={data.title}/>
                                 <div className="item-seller-details">
                                     <span className="item-title">{data.title}</span>
                                     <p className="item-desp">{data.desp}</p>
