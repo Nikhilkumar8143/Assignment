@@ -1,8 +1,4 @@
 import React from 'react';
-import youtubeicon from '../assets/img/youtube.jpg'
-import facebookicon from '../assets/img/facebook1.png';
-import twittericon from '../assets/img/twitter.jpg';
-import instagramicon from '../assets/img/instagram.png';
 import downloadappstore from '../assets/img/downloadappstore.jpg';
 import downloadgoogleplay from '../assets/img/downloadgoogleplay.jpg';
 
@@ -25,41 +21,41 @@ const Footer = (props) => {
                 <div className="mw-30 mr-40">
                     <ul className="footer-list-ul">
                         <span className="header-list">Sitemap</span>
-                        <li><a>Home</a></li>
-                        <li><a>Seller</a></li>
-                        <li><a>Buyer</a></li>
-                        <li><a>Search</a></li>
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">Seller</a></li>
+                        <li><a href="#">Buyer</a></li>
+                        <li><a href="#">Search</a></li>
                     </ul>
                 </div>
                 <div className="mw-30 mr-40">
                     <ul className="footer-list-ul">
                     <span className="header-list">Services</span>
-                        <li><a>Help</a></li>
-                        <li><a>Request a feature</a></li>
-                        <li><a>Terms and policy</a></li>
+                        <li><a href="#">Help</a></li>
+                        <li><a href="#">Request a feature</a></li>
+                        <li><a href="#">Terms and policy</a></li>
                     </ul>
                 </div>
                 <div className="mw-30 mr-40">
                     <ul className="footer-list-ul">
                     <span className="header-list">For users</span>
-                        <li><a>Login</a></li>
-                        <li><a>Register</a></li>
-                        <li><a>My Orders</a></li>
+                        <li><a href="#">Login</a></li>
+                        <li><a href="#">Register</a></li>
+                        <li><a href="#">My Orders</a></li>
                     </ul>
                 </div>
                 <div className="mw-30">
                     <ul className="footer-list-ul">
                     <span className="header-list">Our App</span>
-                        <li><a><img className="footer-download-a" src={downloadappstore}/></a></li>
-                        <li><a><img className="footer-download-g" src={downloadgoogleplay}/></a></li>
+                        <li><a href="#"><img className="footer-download-a" src={downloadappstore}/></a></li>
+                        <li><a href="#"><img className="footer-download-g" src={downloadgoogleplay}/></a></li>
                     </ul>
                 </div>
             </div>
             <div>
                 <span className="copyright">&copy; 2020 Amtica.All rights reserved</span>
                 <div className="pull-right footer-privacy">
-                    <a>Privacies & Cookies</a>
-                    <a>Accessibility</a>
+                    <a href="#">Privacies & Cookies</a>
+                    <a href="#">Accessibility</a>
                 </div>
             </div>
         </footer>

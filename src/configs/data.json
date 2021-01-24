@@ -2,29 +2,33 @@
     {
         "id":1,
         "title":"Harry Potter Game",
-        "desp":"",
+        "desp":"Harry Potter Game is a great game to play for wizarding world and one of the top most games in world",
         "sellerName":"Cloudtail Technologies",
-        "location":"Hyderabad,Telangana"
+        "location":"Hyderabad,Telangana",
+        "img": "https://i.ibb.co/J2Z1z3J/harrypotter.jpg"
     },
     {
         "id":2,
         "title":"Yonex ascraber",
-        "desp":"",
+        "desp":"Yonex ascraber is the best racquet in world",
         "sellerName":"Yonex",
-        "location":"Delhi"
+        "location":"Delhi",
+        "img": "https://i.ibb.co/RQFy5H5/yonex.jpg"
     },
     {
         "id":3,
         "title":"Avengers Dvd",
-        "desp":"",
+        "desp":"Avengers Game is a great game to play for wizarding world and one of the top most games in world",
         "sellerName":"Zora Technologies",
-        "location":"Banglore,Karnataka"
+        "location":"Banglore,Karnataka",
+        "img": "https://i.ibb.co/Y0VMbb9/avengers.jpg"
     },
     {
         "id":4,
         "title":"Nintendo",
-        "desp":"",
+        "desp":"Nintendo is a great game to play for wizarding world and one of the top most games in world",
         "sellerName":"Avalot Technologies",
-        "location":"Vijayawada,Andhra Pradesh"
+        "location":"Vijayawada,Andhra Pradesh",
+        "img": "https://i.ibb.co/Jq3dVLr/nintendo.jpg"
     }
 ]
