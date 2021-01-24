@@ -2,29 +2,33 @@
     {
         "id":1,
         "title":"Frontend Development",
-        "desp":"",
+        "desp":"Work for the best and be the best",
         "sellerName":"Amazon",
-        "location":"Hyderabad,Telangana"
+        "location":"Hyderabad,Telangana",
+        "img": "https://i.ibb.co/bgzhybM/amazon.jpg"
     },
     {
         "id":2,
         "title":"Backend Development",
-        "desp":"",
+        "desp":"Work for the best and be the best",
         "sellerName":"Google",
-        "location":"Delhi"
+        "location":"Delhi",
+        "img": "https://i.ibb.co/TcrBKGF/Sunnyvale-California-USA-April-4-2018-Headquarters-for-Google-Cloud-computing-located-at-1155-Borreg.jpg"
     },
     {
         "id":3,
         "title":"Full Stack development",
-        "desp":"",
+        "desp":"Work for the best and be the best",
         "sellerName":"Facebook",
-        "location":"Banglore,Karnataka"
+        "location":"Banglore,Karnataka",
+        "img": "https://i.ibb.co/ry0LKBp/Mountain-View-CA-United-States-August-15-2016-main-entrance-of-Facebook-headquarters-building-with-p.jpg"
     },
     {
         "id":4,
         "title":"Mobile Development",
-        "desp":"",
+        "desp":"Work for the best and be the best",
         "sellerName":"Netflix",
-        "location":"Vijayawada,Andhra Pradesh"
+        "location":"Vijayawada,Andhra Pradesh",
+        "img": "https://i.ibb.co/HdTbkcc/netflix.webp"
     }
 ]
