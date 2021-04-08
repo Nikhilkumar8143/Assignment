@@ -67,7 +67,7 @@ class HomePage extends React.Component {
                 }
             })
         } 
-    }
+    } 
 
     render() {
         let props = this.props;
